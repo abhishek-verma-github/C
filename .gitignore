@@ -1,0 +1,6 @@
+#vs-code files
+.vscode
+
+#system files
+.DS_Store
+
